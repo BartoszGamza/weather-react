@@ -5,7 +5,7 @@ class Tittle extends Component {
     return (
       <div>
         <h1>
-          Simple React Weather App by Bartosz Gamza
+          Simple React Weather App
         </h1>
         <p>
           Type in city and country to display current weather data
